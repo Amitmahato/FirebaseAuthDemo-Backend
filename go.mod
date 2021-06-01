@@ -5,6 +5,7 @@ go 1.16
 require (
 	cloud.google.com/go/storage v1.15.0 // indirect
 	firebase.google.com/go/v4 v4.5.0
+	github.com/golang/gddo v0.0.0-20210115222349-20d68f94ee1f
 	github.com/gorilla/mux v1.8.0
 	google.golang.org/api v0.47.0
 	gorm.io/driver/mysql v1.1.0
